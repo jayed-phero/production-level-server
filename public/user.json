@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "gender": "male",
+        "name": "John Doe",
+        "contact": "+1 (123) 456-7890",
+        "address": "123 Main St, Anytown, USA",
+        "photoUrl": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "id": 2,
+        "gender": "female",
+        "name": "Jane Smith",
+        "contact": "+1 (234) 567-8901",
+        "address": "456 Oak Ave, Anytown, USA",
+        "photoUrl": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+        "id": 3,
+        "gender": "male",
+        "name": "Bob Johnson",
+        "contact": "+1 (345) 678-9012",
+        "address": "789 Maple Rd, Anytown, USA",
+        "photoUrl": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+        "id": 4,
+        "gender": "female",
+        "name": "Alice Lee",
+        "contact": "+1 (456) 789-0123",
+        "address": "321 Elm St, Anytown, USA",
+        "photoUrl": "https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    {
+        "id": 5,
+        "gender": "male",
+        "name": "Mike Brown",
+        "contact": "+1 (567) 890-1234",
+        "address": "654 Cedar Ave, Anytown, USA",
+        "photoUrl": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+        "id": 6,
+        "gender": "female",
+        "name": "Emily Davis",
+        "contact": "+1 (678) 901-2345",
+        "address": "987 Pine Blvd, Anytown, USA",
+        "photoUrl": "https://randomuser.me/api/portraits/women/6.jpg"
+    },
+    {
+        "id": 7,
+        "gender": "male",
+        "name": "Tom Wilson",
+        "contact": "+1 (789) 012-3456",
+        "address": "246 Spruce St, Anytown, USA",
+        "photoUrl": "https://randomuser.me/api/portraits/men/7.jpg"
+    },
+    {
+        "id": 8,
+        "gender": "female",
+        "name": "Linda Martin",
+        "contact": "+1 (890) 123-4567",
+        "address": "369 Oak St, Anytown, USA",
+        "photoUrl": "https://randomuser.me/api/portraits/women/8.jpg"
+    },
+    {
+        "id": 9,
+        "gender": "male",
+        "name": "Chris Lee",
+        "contact": "+1 (901) 234-5678",
+        "address": "258 Maple Ave, Anytown, USA",
+        "photoUrl": "https://randomuser.me/api/portraits/men/9.jpg"
+    },
+    {
+        "id": 10,
+        "gender": "female",
+        "name": "Sarah Johnson",
+        "contact": "+1 (012) 345-6789",
+        "address": "753 Oak St, Anytown, USA",
+        "photoUrl": "https://randomuser.me/api/portraits/women/8.jpg"
+    }
+]
